@@ -1,0 +1,6 @@
+name: genpark-automated-code-patch-diff-synthesizer-skill
+version: 1.0.0
+description: Unified diff generator and patch application engine using difflib with hunk matching and rollback
+command: python
+args:
+  - mcp_server.py
